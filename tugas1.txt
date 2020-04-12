@@ -1,0 +1,26 @@
+1) 
+Sebuah database adalah kumpulan data yang terorganisasi. Dalam bahasa Indonesia, database ini dikenal juga dengan sebutan Basis Data.  
+Salah satu solusi untuk menyimpan data adalah dengan aplikasi spreadsheet seperti Microsoft Excel. Solusi kedua adalah menyimpan data khusus di aplikasi database seperti MySQL.
+Menyimpan data di Microsoft Excel dan MySQL memiliki tujuan yang berbeda. Untuk data yang sederhana, tabel di excel sudah mencukupi. Namun jika data tersebut cukup kompleks, saling berhubungan, serta harus diakses banyak orang sekaligus, menyimpan data di MySQL akan lebih pas.
+Alasan lain yang tak kalah penting adalah, aplikasi seperti MySQL bisa digabung dengan bahasa pemrograman. Bahasa pemrograman ini nantinya berfungsi untuk membuat interface atau tampilan aplikasi, sedangkan datanya disimpan ke dalam MySQL.  
+2)
+  Pengertian sederhana dari RDBMS adalah: aplikasi database yang menggunakan prinsip relasional. Relational Database adalah suatu jenis database model.
+Mengutip dari Wikipedia: Database model adalah teori dasar seputar bagaimana data itu akan disimpan, disusun, dan dimanipulasi dalam sebuah sistem database.  
+3)
+•	 Flat Model : Menyimpan data tanpa aturan dan cara penulisan tertentu.  
+•	Hierarchical Model : Data terorganisasi dari atas ke bawah.  
+•	Network Model : Pengembangan dari hierarchical model.  
+•	Relational Model  : Menyusun data ke dalam bentuk tabel yang saling terhubung.
+•	Object Oriented Model : Menggunakan pendekatan object dalam menyimpan data.  
+
+4)
+ Oracle, Sybase, Microsoft Access, Microsoft SQL Server, PostgreSQL dan juga MariaDB.
+
+
+
+5)
+1.	Speed
+2.	Reliability
+3.	Scalability
+4.	User Friendly
+5.	Portability and Standard Compliance  
